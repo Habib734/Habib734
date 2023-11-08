@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Habib Ur Rehman
+- 👀 I’m interested in Data Surgery
+- 🌱 I’m currently learning bachelor's in Data Science 
+- 💞️ I’m looking to collaborate with Anyone
+- 📫 Reach me thorugh GitHub
